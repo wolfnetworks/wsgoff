@@ -41,3 +41,7 @@ footer {
 .navbar-inverse .navbar-nav li a:hover{
     color: maroon;
 }
+
+.navbar-inverse{
+    border-color: maroon;
+}
