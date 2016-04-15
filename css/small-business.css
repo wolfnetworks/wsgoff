@@ -9,7 +9,7 @@ body {
 }
 
 .navbar-fixed-top .nav {
-    padding: 20px 0;
+    padding: 15px 0;
 }
 
 .navbar-fixed-top .navbar-brand {
@@ -28,4 +28,16 @@ footer {
     .navbar-fixed-top .navbar-brand {
         padding: 15px 0;
     }
+}
+
+.navbar{
+    background-color: white;
+}
+
+.navbar-inverse .navbar-nav li a{
+    color: black;
+}
+
+.navbar-inverse .navbar-nav li a:hover{
+    color: maroon;
 }
