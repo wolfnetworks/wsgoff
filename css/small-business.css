@@ -45,3 +45,7 @@ footer {
 .navbar-inverse{
     border-color: maroon;
 }
+
+.navbar-toggle{
+    background-color: maroon;
+}
