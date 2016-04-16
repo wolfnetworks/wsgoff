@@ -51,3 +51,8 @@ h1, h2, h4{
 .navbar-toggle{
     background-color: maroon;
 }
+
+.btn{
+    background-color: #2e5583;
+    border-color: #2e5583;
+}
