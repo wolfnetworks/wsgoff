@@ -30,6 +30,7 @@ footer {
     }
 }
 
+/* navbar customization */
 .navbar{
     background-color: white;
 }
@@ -42,9 +43,6 @@ footer {
     color: maroon;
 }
 
-.navbar-inverse{
-    border-color: maroon;
-}
 
 .navbar-toggle{
     background-color: maroon;
